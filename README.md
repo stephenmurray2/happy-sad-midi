@@ -3,7 +3,7 @@
 Make music... with your face! This python code will allow you play chords on an external midi device using facial expressions detected via webcam. Notable details:
 
 - For computer vision, this uses an (unofficial) pre-built version of OpenCV: [opencv-python](https://pypi.org/project/opencv-python/)
-- Uses a convolutional neural network framework from [PyTorch](https://pytorch.org/)
+- Uses a convolutional neural network framework from [TensorFlow](https://www.tensorflow.org/)
 - Uses the facial expression classifer: [FER](https://pypi.org/project/fer/)
 - MIDI events are programmatically generated with [python-rtmidi](https://pypi.org/project/python-rtmidi/)
 
