@@ -1,6 +1,6 @@
 # Happy Sad Midi
 
-Make music... with your face! This python code will allow you play chords on an external midi device using facial expressions detected via webcam. Notable details:
+Make music... with your face! This python code will allow you play chords on an external midi device using facial expressions detected via webcam. You can watch a demo [here](https://youtu.be/jLxEoVBBL24). Notable details:
 
 - For computer vision, this uses an (unofficial) pre-built version of OpenCV: [opencv-python](https://pypi.org/project/opencv-python/)
 - Uses a convolutional neural network framework from [TensorFlow](https://www.tensorflow.org/)
